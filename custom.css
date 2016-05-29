@@ -1,0 +1,33 @@
+body {
+    background: url("https://res.cloudinary.com/vivian/image/upload/v1463946394/01_i5pccm.jpg") no-repeat center center fixed;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+
+h1 {
+    font-family: 'Sacramento', cursive;
+    color: #ffffff;
+}
+
+h4 {
+    font-family: 'Lato', sans-serif;
+    color: #ffffff;
+}
+
+.well {
+    background-color: #00bcd4;
+}
+
+.pic {
+    height: 150px;
+    width: 150px;
+}
+
+.narrow {
+    max-width: 768px;
+}
+
+#happybirthday,#weloveyou {
+    font-family: 'Fredoka One', cursive;
+    color: #ffffff;
+}
